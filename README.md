@@ -19,23 +19,23 @@ A collection of high-quality, community-maintained project templates and configu
 
 | Template | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Basic HTML/CSS/JS](./web-basic)** | A minimal template for static web pages and quick prototyping. | HTML5, CSS3, Vanilla JS |
-| **[React Starter](./react-starter)** | Modern React starter powered by Vite. Fast, lightweight, and ready for scale. | React 18, Vite, CSS Modules |
-| **[Vue Starter](./vue-starter)** | Modern Vue 3 starter powered by Vite. The progressive framework for building UIs. | Vue 3, Vite, CSS |
+| **[Basic HTML/CSS/JS](./templates/web-basic)** | A minimal template for static web pages and quick prototyping. | HTML5, CSS3, Vanilla JS |
+| **[React Starter](./templates/react-starter)** | Modern React starter powered by Vite. Fast, lightweight, and ready for scale. | React 18, Vite, CSS Modules |
+| **[Vue Starter](./templates/vue-starter)** | Modern Vue 3 starter powered by Vite. The progressive framework for building UIs. | Vue 3, Vite, CSS |
 
 ### Python Development
 
 | Template | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Python Script](./python-script)** | Standard boilerplate for Python scripts with virtual environment and logging setup. | Python 3, venv, logging |
-| **[FastAPI Service](./fastapi-service)** | High-performance API starter for building modern web services. | FastAPI, Uvicorn, Python 3 |
+| **[Python Script](./templates/python-script)** | Standard boilerplate for Python scripts with virtual environment and logging setup. | Python 3, venv, logging |
+| **[FastAPI Service](./templates/fastapi-service)** | High-performance API starter for building modern web services. | FastAPI, Uvicorn, Python 3 |
 
 ### Tools & Configuration
 
 | Template | Description | Usage |
 | :--- | :--- | :--- |
-| **[Git Ignore](./gitignore)** | A collection of `.gitignore` templates for various languages and environments. | Git version control |
-| **[Editor Config](./editor-config)** | Standard `.editorconfig` to maintain consistent coding styles across editors. | Cross-editor configuration |
+| **[Git Ignore](./templates/gitignore)** | A collection of `.gitignore` templates for various languages and environments. | Git version control |
+| **[Editor Config](./templates/editor-config)** | Standard `.editorconfig` to maintain consistent coding styles across editors. | Cross-editor configuration |
 
 ## Contributing
 

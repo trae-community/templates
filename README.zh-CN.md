@@ -19,23 +19,23 @@ TRAE 社区维护的高质量项目模板与配置文件集合。这些模板旨
 
 | 模板 | 描述 | 技术栈 |
 | :--- | :--- | :--- |
-| **[Basic HTML/CSS/JS](./web-basic)** | 用于静态网页和快速原型验证的极简模板。 | HTML5, CSS3, Vanilla JS |
-| **[React Starter](./react-starter)** | 基于 Vite 的现代化 React 脚手架。快速、轻量，适合构建各类应用。 | React 18, Vite, CSS Modules |
-| **[Vue Starter](./vue-starter)** | 基于 Vite 的现代化 Vue 3 脚手架。渐进式 JavaScript 框架。 | Vue 3, Vite, CSS |
+| **[Basic HTML/CSS/JS](./templates/web-basic)** | 用于静态网页和快速原型验证的极简模板。 | HTML5, CSS3, Vanilla JS |
+| **[React Starter](./templates/react-starter)** | 基于 Vite 的现代化 React 脚手架。快速、轻量，适合构建各类应用。 | React 18, Vite, CSS Modules |
+| **[Vue Starter](./templates/vue-starter)** | 基于 Vite 的现代化 Vue 3 脚手架。渐进式 JavaScript 框架。 | Vue 3, Vite, CSS |
 
 ### Python 开发
 
 | 模板 | 描述 | 技术栈 |
 | :--- | :--- | :--- |
-| **[Python Script](./python-script)** | 包含虚拟环境配置和日志设置的标准 Python 脚本模板。 | Python 3, venv, logging |
-| **[FastAPI Service](./fastapi-service)** | 用于构建现代 Web 服务的高性能 API 模板。 | FastAPI, Uvicorn, Python 3 |
+| **[Python Script](./templates/python-script)** | 包含虚拟环境配置和日志设置的标准 Python 脚本模板。 | Python 3, venv, logging |
+| **[FastAPI Service](./templates/fastapi-service)** | 用于构建现代 Web 服务的高性能 API 模板。 | FastAPI, Uvicorn, Python 3 |
 
 ### 工具与配置
 
 | 模板 | 描述 | 用途 |
 | :--- | :--- | :--- |
-| **[Git Ignore](./gitignore)** | 适用于各种语言和环境的 `.gitignore` 模板集合。 | Git 版本控制 |
-| **[Editor Config](./editor-config)** | 标准的 `.editorconfig` 配置，用于在不同编辑器间保持代码风格一致。 | 跨编辑器配置 |
+| **[Git Ignore](./templates/gitignore)** | 适用于各种语言和环境的 `.gitignore` 模板集合。 | Git 版本控制 |
+| **[Editor Config](./templates/editor-config)** | 标准的 `.editorconfig` 配置，用于在不同编辑器间保持代码风格一致。 | 跨编辑器配置 |
 
 ## 贡献指南
 
