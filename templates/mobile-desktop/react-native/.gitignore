@@ -1,0 +1,18 @@
+node_modules/
+.expo/
+dist/
+web-build/
+
+# npm
+npm-debug.log
+package-lock.json
+yarn-error.log
+
+# android
+android/.gradle
+android/local.properties
+android/*.iml
+
+# ios
+ios/Pods/
+ios/.xcode.env.local
